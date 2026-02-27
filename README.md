@@ -10,7 +10,7 @@ O projeto realiza validação de entrada, manipulação dinâmica do DOM e exibi
 
 ## 🚀 Demonstração
 
-🔗 Acesse no Vercel: *[Link](Link)*
+🔗 Acesse no Vercel: *[Link](https://calculadora-de-imc-br.vercel.app/)*
 
 ## 🛠️ Tecnologias utilizadas
 
